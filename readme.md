@@ -31,7 +31,7 @@ This repository contains **Fall Guin**, an interactive 3D game developed in Unit
 - **Uneven Terrain**: Ground plane with uneven surfaces for added challenge.
 
 
-## My Key Contributions & Technical Skills Demonstrated
+## Technical Skills Demonstrated
 
 ### Programming Skills
 
