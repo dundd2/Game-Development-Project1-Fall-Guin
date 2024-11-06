@@ -1,7 +1,7 @@
 # Fall Guin - Interactive Unity 3D Game Development
 ## Overview
 
-This repository contains **Fall Guin**, an interactive 3D game developed in Unity for the Year 1 **G6078: Game Design and Development Assignment 1 - Interactive 3D Game Development in Unity 3D**  Assignments 1 in October 2024. This project was completed as part of a group effort, and while it represents collaborative work, I demonstrated various technical skills.
+This repository contains **Fall Guin**, an interactive 3D game developed in Unity for the Year 2 **G6078: Game Design and Development Assignment 1 - Interactive 3D Game Development in Unity 3D**  Assignments 1 in October 2024. This project was completed as part of a group effort, and while it represents collaborative work, I demonstrated various technical skills.
 
 > **Note**: This is a group project. While I contributed substantially, it is a collaborative effort.
 
