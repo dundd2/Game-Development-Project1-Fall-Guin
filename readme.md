@@ -26,11 +26,11 @@ This repository contains **Fall Guin**, an interactive 3D game developed in Unit
 
 
 ## 📸 Screenshots:
-![Screenshot](https://github.com/dundd2/Fall-guin/blob/main/Screenshots/SC%20(1).gif)
-![Screenshot](https://github.com/dundd2/Fall-guin/blob/main/Screenshots/SC%20(2).gif)
-![Screenshot](https://github.com/dundd2/Fall-guin/blob/main/Screenshots/SC%20(3).png)
-![Screenshot](https://github.com/dundd2/Fall-guin/blob/main/Screenshots/SC%20(4).png)
-![Screenshot](https://github.com/dundd2/Fall-guin/blob/main/Screenshots/SC%20(5).png)
+![Screenshot](https://github.com/dundd2/Fall-guin/blob/main/Screenshot/SC%20(1).gif)
+![Screenshot](https://github.com/dundd2/Fall-guin/blob/main/Screenshot/SC%20(2).gif)
+![Screenshot](https://github.com/dundd2/Fall-guin/blob/main/Screenshot/SC%20(3).png)
+![Screenshot](https://github.com/dundd2/Fall-guin/blob/main/Screenshot/SC%20(4).png)
+![Screenshot](https://github.com/dundd2/Fall-guin/blob/main/Screenshot/SC%20(5).png)
 
 
 ## My Key Contributions & Technical Skills Demonstrated
