@@ -1,5 +1,4 @@
-# Fall Guin - Interactive 3D Game Development Project
-
+# Fall Guin - Interactive Unity 3D Game Development
 ## Overview
 
 This repository contains **Fall Guin**, an interactive 3D game developed in Unity for the Year 1 **G6078: Game Design and Development Assignment 1 - Interactive 3D Game Development in Unity 3D**  Assignments 1 in October 2024. This project was completed as part of a group effort, and while it represents collaborative work, I demonstrated various technical skills.
@@ -9,6 +8,13 @@ This repository contains **Fall Guin**, an interactive 3D game developed in Unit
 ## Game Description
 
 **Fall Guin** is inspired by "Fall Guys". Players control **Pingu**, navigating through an Arctic-themed obstacle course, collecting fish, and overcoming challenges to reach the goal.
+
+## 📸 Screenshots:
+![Screenshot](https://github.com/dundd2/Fall-guin/blob/main/Screenshot/SC%20(1).gif)
+![Screenshot](https://github.com/dundd2/Fall-guin/blob/main/Screenshot/SC%20(2).gif)
+![Screenshot](https://github.com/dundd2/Fall-guin/blob/main/Screenshot/SC%20(3).png)
+![Screenshot](https://github.com/dundd2/Fall-guin/blob/main/Screenshot/SC%20(4).png)
+![Screenshot](https://github.com/dundd2/Fall-guin/blob/main/Screenshot/SC%20(5).png)
 
 ## Features
 
@@ -23,14 +29,6 @@ This repository contains **Fall Guin**, an interactive 3D game developed in Unit
 - **Life System**: Players lose lives when falling into water.
 - **Scoring System**: Collect fish to increase the score.
 - **Uneven Terrain**: Ground plane with uneven surfaces for added challenge.
-
-
-## 📸 Screenshots:
-![Screenshot](https://github.com/dundd2/Fall-guin/blob/main/Screenshot/SC%20(1).gif)
-![Screenshot](https://github.com/dundd2/Fall-guin/blob/main/Screenshot/SC%20(2).gif)
-![Screenshot](https://github.com/dundd2/Fall-guin/blob/main/Screenshot/SC%20(3).png)
-![Screenshot](https://github.com/dundd2/Fall-guin/blob/main/Screenshot/SC%20(4).png)
-![Screenshot](https://github.com/dundd2/Fall-guin/blob/main/Screenshot/SC%20(5).png)
 
 
 ## My Key Contributions & Technical Skills Demonstrated
