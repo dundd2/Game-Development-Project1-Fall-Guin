@@ -92,12 +92,13 @@ A playable .exe version has been created and is available for demo purposes.
 Download the .exe file for direct play (Windows)
 
 ## Credits
-Special thanks to all team members who contributed to this collaborative effort:
 
-- ** Duncan Law  **(me)
-- ** Johnson Lei**
-- ** Lin Hein**
-- ** Tevy Ho ** Github: [TevyTrial](https://github.com/TevyTrial)
+Special thanks to the team members who contributed to this project:
+
+- **Duncan Law** *(me)*  
+- **Johnson Lei**  
+- **Lin Hein**  
+- **Tevy Ho** – [TevyTrial on GitHub](https://github.com/TevyTrial)
 
 ## Documentation
 
