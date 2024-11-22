@@ -94,11 +94,11 @@ Download the .exe file for direct play (Windows)
 ## Credits
 Special thanks to all team members who contributed to this collaborative effort:
 
-Duncan Law (me)
-Johnson Lei
-Lin Hein
-Tevy Ho  Github: [TevyTrial](https://github.com/TevyTrial)
+- ** Duncan Law  **(me)
+- ** Johnson Lei**
+- ** Lin Hein**
+- ** Tevy Ho ** Github: [TevyTrial](https://github.com/TevyTrial)
 
 ## Documentation
 
-Please refer to the included PDF documentation and presentation files for detailed technical specifications, project requirements, and presentation slides.
+Please take a look at the included PDF documentation and presentation files for detailed technical specifications, project requirements, and presentation slides.
