@@ -61,7 +61,7 @@ Our game meets and exceeds the assignment criteria:
 
 1. **3D Environment**: Players move in x, y, and z axes with jumping mechanics.
 2. **Animated Player Avatar**: Pingu features walking and jumping animations.
-3. **Third-Person Perspective**: A camera follows the player avatar.
+3. **Third-Person Perspective**: A camera follows the player's avatar.
 4. **Movement Bounds**: Player movement is constrained within the environment.
 5. **Collision Detection**: Interactions with at least five different objects.
 6. **Independent Moving Objects**: Obstacles move independently in the environment.
@@ -73,7 +73,7 @@ Our game meets and exceeds the assignment criteria:
 
 ## Installation
 
-Download the executable (.exe) file from the repository to play the game on Windows. No Unity installation is required.
+To play the game on Windows, download the executable (.exe) file from the repository. No Unity installation is required.
 
 ## Resources Used
 
@@ -92,9 +92,13 @@ A playable .exe version has been created and is available for demo purposes.
 Download the .exe file for direct play (Windows)
 
 ## Credits
+Special thanks to all team members who contributed to this collaborative effort:
 
-Special thanks to all team members who contributed to this collaborative effort.
+Duncan Law (me)
+Johnson Lei
+Lin Hein
+Tevy Ho  Github: [TevyTrial](https://github.com/TevyTrial)
 
 ## Documentation
 
-For detailed technical specifications, project requirements, and presentation slides, please refer to the included PDF documentation and presentation files.
+Please refer to the included PDF documentation and presentation files for detailed technical specifications, project requirements, and presentation slides.
