@@ -91,6 +91,10 @@ A playable .exe version has been created and is available for demo purposes.
 ## Installation
 Download the .exe file for direct play (Windows)
 
+## Grade
+Grade: 74/100
+(Feedback highlights strong efforts in game development and presentation, with notable achievements in functionality and gameplay. However, some technical issues and areas for improvement were observed, particularly in interaction and additional refinements.)
+
 ## Credits
 
 Special thanks to the team members who contributed to this project:
