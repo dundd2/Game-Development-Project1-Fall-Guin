@@ -19,14 +19,14 @@ This repository contains **Fall Guin**, an interactive 3D game developed in Unit
 ## Features
 
 - **Player Avatar**: Control Pingu with movement in all axes and jumping mechanics.
-- **Third-Person Camera**: A following camera provides a clear view.
+- **Third-Person Camera**: The following camera provides a clear view.
 - **Obstacles**: Moving icebergs and other challenges requiring timing and skill.
 - **Collectibles**: Fish that increase the player's score.
-- **Environment**: Arctic theme with custom skybox and textures.
+- **Environment**: Arctic theme with a custom skybox and textures.
 - **Animations and Effects**: Walking, jumping animations, and blood splatter effects.
 - **Sound Effects**: Audio feedback for actions like walking and jumping.
 - **User Interface**: Main menu, instructions, and game over screens.
-- **Life System**: Players lose lives when falling into water.
+- **Life System**: Players lose lives when falling into the water.
 - **Scoring System**: Collect fish to increase the score.
 - **Uneven Terrain**: Ground plane with uneven surfaces for added challenge.
 
@@ -36,8 +36,8 @@ This repository contains **Fall Guin**, an interactive 3D game developed in Unit
 ### Programming Skills
 
 - **C# Scripting**: Developed scripts for player movement, controls, and game mechanics.
-- **Collision Detection**: Implemented systems for interactions with obstacles and collectibles.
-- **Scoring and Life Management**: Created systems to handle player scoring and lives.
+- **Collision Detection**: Implemented systems for interactions with obstacles and collectables.
+- **Scoring and Life Management**: Created systems for player scoring and lives.
 - **Animation Control**: Managed animation states and transitions for Pingu.
 - **Sound Integration**: Integrated audio clips for various player actions.
 
@@ -72,8 +72,8 @@ Our game meets and exceeds the assignment criteria:
 11. **User Interface**: Includes entry UI, instructions, and exit UI with game outcomes.
 
 ## Installation
-
-To play the game on Windows, download the executable (.exe) file from the repository. No Unity installation is required.
+A playable .exe version has been created and is available for demo purposes.
+Download the executable (.exe) file from the repository to play the game on Windows. No Unity installation is required.
 
 ## Resources Used
 
@@ -83,13 +83,7 @@ The game utilizes various assets from:
 - **Sketchfab** (with appropriate licensing)
 - **Custom-made elements**
 
-All external assets are properly credited in the project documentation.
-
-## Project Status
-A playable .exe version has been created and is available for demo purposes.
-
-## Installation
-Download the .exe file for direct play (Windows)
+All external assets are properly credited in the project PDF documentation.
 
 ## Grade
 Grade: 74/100
@@ -106,4 +100,4 @@ Special thanks to the team members who contributed to this project:
 
 ## Documentation
 
-Please take a look at the included PDF documentation and presentation files for detailed technical specifications, project requirements, and presentation slides.
+Please review the included PDF documentation and presentation files for detailed technical specifications, project requirements, and presentation slides.
